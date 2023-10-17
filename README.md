@@ -25,7 +25,7 @@ Contact me:
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table align="center"><tr><td valign="top" width="33%">
 
 
 
@@ -38,6 +38,7 @@ Contact me:
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
 </div>
+</table>
 
 <br/>  
 
@@ -64,9 +65,3 @@ Contact me:
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OleksandraPorkhachova&hide_border=true&layout=compact" align="center" /></div>  
-
-<br/>  
-
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
