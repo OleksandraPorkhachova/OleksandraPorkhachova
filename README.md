@@ -3,7 +3,7 @@
 ### <div align="center">I'm Oleksandra, Trainee Front-end Developer  🚀</div>  
   
 
-- 🔭 I’m currently studying Front-end direction  
+- 🔭 I’m currently studying Front-end  
   
 
 - 🌱 I’m in active search of internship program  
