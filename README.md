@@ -13,7 +13,7 @@
   
 
 Contact me:
-![Static Badge](https://img.shields.io/badge/Telegram%20-%20%237db2e7?link=https%3A%2F%2Ft.me%2FOleksandra_Porkhachova)
+![Static Badge](https://img.shields.io/badge/Telegram-blue?link=https%3A%2F%2Ft.me%2FOleksandra_Porkhachova)
 ![Static Badge](https://img.shields.io/badge/Gmail%20-%20%23d62c2c?link=oleksandraorlik%40gmail.com)
   
   
