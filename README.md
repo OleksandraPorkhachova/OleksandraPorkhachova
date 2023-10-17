@@ -1,8 +1,5 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
+<h1>Hello, everyone! 👋🏻 </h1>
+<br>
 ### <div align="center">I'm Oleksandra, Trainee Front-end Developer  🚀</div>  
   
 
