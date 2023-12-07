@@ -1,9 +1,9 @@
 <h1>Hello, everyone! 👋🏻 </h1>
 <br>
-### <div align="center">I'm Oleksandra, Trainee Front-end Developer  🚀</div>  
+### <div align="center">I'm Oleksandra, Trainee  🚀</div>  
   
 
-- 🔭 I’m currently studying Front-end  
+- 🔭 I’m currently studying
   
 
 - 🌱 I’m in active search of internship program  
